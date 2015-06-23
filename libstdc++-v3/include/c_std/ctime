@@ -62,7 +62,7 @@ namespace std
   using ::tm;
 
   using ::clock;
-  using ::difftime;
+//  using ::difftime;
   using ::mktime;
   using ::time;
   using ::asctime;

@@ -48,7 +48,7 @@ using std::time_t;
 using std::tm;
 
 using std::clock;
-using std::difftime;
+//using std::difftime;
 using std::mktime;
 using std::time;
 using std::asctime;
